@@ -1,6 +1,5 @@
 # 🧠 Awesome LLM and Agent Memory
 
-<div align="center">
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 **Collection of resources on Memory Mechanisms for LLM and Agents.**
